@@ -28,7 +28,7 @@ Otel yönetim işlemlerini kolaylaştıran bir masaüstü uygulamasıdır. Bu pr
 ### Giriş Sayfası
 ![Giriş Sayfası](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164054.png)
 
-    Giriş Sayfası, otel yönetim sistemi kullanıcılarının uygulamaya erişim sağlamasını ve yetkilerine göre doğru sayfaya yönlendirilmesini sağlar. Kullanıcı adı ve şifre bilgilerine göre, sistem ilgili kullanıcının bir Personel mi yoksa Yönetici mi olduğunu kontrol eder ve bu doğrultuda uygun sayfayı açar.
+ Giriş Sayfası, otel yönetim sistemi kullanıcılarının uygulamaya erişim sağlamasını ve yetkilerine göre doğru sayfaya yönlendirilmesini sağlar. Kullanıcı adı ve şifre bilgilerine göre, sistem ilgili kullanıcının bir Personel mi yoksa Yönetici mi olduğunu kontrol eder ve bu doğrultuda uygun sayfayı açar.
 
 ### Ana Menü
 ![Ana Menü](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164117.png)
