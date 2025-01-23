@@ -26,43 +26,28 @@ Otel yönetim işlemlerini kolaylaştıran bir masaüstü uygulamasıdır. Bu pr
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Sayfası
-![Giriş Sayfası](./screenshots/Ekran görüntüsü 2025-01-23 164054.png)
-
----
+![Giriş Sayfası](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164054.png)
 
 ### Ana Menü
-![Ana Menü](./screenshots/Ekran görüntüsü 2025-01-23 164117.png)
-
----
+![Ana Menü](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164117.png)
 
 ### Oda Durumları
-![Oda Durumları](./screenshots/Ekran görüntüsü 2025-01-23 164156.png)
-
----
+![Oda Durumları](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164156.png)
 
 ### Müşteri İşlemleri
-![Müşteri İşlemleri](./screenshots/Ekran görüntüsü 2025-01-23 164313.png)
-
----
+![Müşteri İşlemleri](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164313.png)
 
 ### Müşteri Giriş
-![Müşteri Giriş](./screenshots/Ekran görüntüsü 2025-01-23 164138.png)
-
----
+![Müşteri Giriş](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164138.png)
 
 ### Müşteri Çıkış
-![Müşteri Çıkış](./screenshots/Ekran görüntüsü 2025-01-23 164147.png)
-
----
+![Müşteri Çıkış](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164147.png)
 
 ### Personel İşlemleri
-![Personel İşlemleri](./screenshots/Ekran görüntüsü 2025-01-23 164234.png)
-
----
+![Personel İşlemleri](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164234.png)
 
 ### Oda İşlemleri
-![Oda İşlemleri](./Ekran görüntüsü 2025-01-23 164234.png)
-
+![Oda İşlemleri](./screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-23%20164244.png)
 ---
 
 ## 🚀 Kullanım
