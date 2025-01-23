@@ -103,4 +103,5 @@ Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
 - **Tel No**:+90 512 612 9787
 - **E-posta**: valeriiashchorba@gmail.com
 ---
-## yt 
+## ▶𝚈𝚘𝚞𝚝𝚞𝚋𝚎 Video
+ Youtube proje tanıtım videosu izlemek için [tıklayın](https://www.youtube.com/watch?v=e6TlTj45gcE)
