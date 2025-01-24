@@ -28,10 +28,10 @@ Otel yönetim işlemlerini kolaylaştıran bir masaüstü uygulamasıdır. Bu pr
 ![Use-Case Diyagramı](./Diyagramlar/1c563404-1c5d-4c04-a601-a316372bcb47.jpg)
 
 ### ER Diyagramı
-![ER Diyagramı](21315331-d655-491b-a949-ced216e10dea.jpg)
+![ER Diyagramı](./Diyagramlar/21315331-d655-491b-a949-ced216e10dea.jpg)
 
 ### Class Diyagramı
-![Class Diyagramı](d53f8760-ca86-4b38-b713-0861f2731527.jpg)
+![Class Diyagramı](./Diyagramlar/d53f8760-ca86-4b38-b713-0861f2731527.jpg)
 
 ---
 ## 📸 Ekran Görüntüleri
