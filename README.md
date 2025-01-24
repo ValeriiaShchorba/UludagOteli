@@ -22,7 +22,12 @@ Otel yönetim işlemlerini kolaylaştıran bir masaüstü uygulamasıdır. Bu pr
 - **Responsive Tasarım**: Modern ve kullanıcı dostu arayüz.
 
 ---
+## Diyagramlar
 
+### ER Diyagramı
+![ER Diyagramı](./Diyagramlar/1c563404-1c5d-4c04-a601-a316372bcb47.jpg)
+
+---
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Sayfası
