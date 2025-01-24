@@ -104,4 +104,4 @@ Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
 - **E-posta**: valeriiashchorba@gmail.com
 ---
 ## ▶𝚈𝚘𝚞𝚝𝚞𝚋𝚎 Video
- Youtube proje tanıtım videosu izlemek için [tıklayın](https://www.youtube.com/watch?v=e6TlTj45gcE)
+ Youtube proje tanıtım videosu izlemek için [tıklayın](https://www.youtube.com/watch?v=2Y3rhmwzuYo&t=14s)
